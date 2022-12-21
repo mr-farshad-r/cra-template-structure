@@ -1,6 +1,8 @@
 const AdmZip = require("adm-zip");
 const fs = require("fs");
 
+console.log('-------DONT USE THIS FILE-------');
+
 const APP_NAME = "Application";
 const BUILD_DIRECTORY = "./build";
 const TEMP_DIRECTORY = "css-js";
