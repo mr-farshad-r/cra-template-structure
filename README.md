@@ -16,7 +16,6 @@ npx create-react-app --template structure
 - Yup
 - React Router DOM
 - Moment
-- Sass
 
 ### Directory Structure
 
