@@ -11,11 +11,7 @@ npx create-react-app --template structure
 ### Includes the latest version of following NPM packages:
 - Typescript
 - Redux Toolkit
-- Axios
-- Formik
-- Yup
 - React Router DOM
-- Moment
 
 ### Directory Structure
 

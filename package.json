@@ -1,20 +1,17 @@
 {
   "name": "cra-template-structure",
-  "version": "2.3.4",
+  "version": "3.0.0",
   "main": "template.json",
   "keywords": [
     "react",
+    "react-structure",
     "create-react-app",
     "cra-template",
     "typescript",
     "redux",
     "redux-toolkit",
-    "axios",
-    "formik",
-    "yup",
-    "moment",
     "react-redux",
-    "react-structure"
+    "CRA"
   ],
   "description": "CRA template, Directory structure for big React application.",
   "license": "MIT",
