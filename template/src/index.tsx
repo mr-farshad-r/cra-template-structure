@@ -1,8 +1,6 @@
-import * as React from "react";
 import * as ReactDOM from "react-dom/client";
 import { Provider } from "react-redux";
 
-import "./assets/styles/styles";
 import { store } from "./redux/store";
 import App from "./App";
 import { isDevelopment } from "./helpers/application-mode";
