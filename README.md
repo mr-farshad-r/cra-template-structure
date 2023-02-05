@@ -5,7 +5,7 @@ This CRA template is made for the development of large applications.
 Using this command to install this CRA template:
 
 ```bash
-npx create-react-app --template structure
+npx create-react-app --template structure app
 ```
 
 ### Includes the latest version of following NPM packages:

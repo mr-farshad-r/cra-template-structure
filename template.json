@@ -10,7 +10,7 @@
       "react-redux": "latest",
       "react-router-dom": "latest",
       "redux": "latest",
-      "typescript": "latest",
+      "typescript": "latest"
     }
   }
 }
